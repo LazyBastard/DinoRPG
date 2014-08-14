@@ -1,0 +1,4 @@
+DinoRPG
+=======
+
+DinoRPG Faster script
